@@ -51,7 +51,7 @@ int main()
                cell[i] = 0;
             }
 
-            return cell[i];
+            printf("%d", cell);
 		
 	}
 
